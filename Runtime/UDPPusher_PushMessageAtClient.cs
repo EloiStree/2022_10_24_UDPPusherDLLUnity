@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UDPPusherOMI_PushMessageAtClient : MonoBehaviour
+public class UDPPusher_PushMessageAtClient : MonoBehaviour
 {
 
     [TextArea(0,10)]

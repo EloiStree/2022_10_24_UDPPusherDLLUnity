@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UDPPusherOMI_FlushServerReceivedMessages : MonoBehaviour
+public class UDPPusher_FlushServerReceivedMessages : MonoBehaviour
 {
-    public UDPPusherOMI_Server m_serverObserved;
+    public UDPPusher_Server m_serverObserved;
     public Eloi.PrimitiveUnityEvent_String m_onMessageReceived;
     void Update()
     {

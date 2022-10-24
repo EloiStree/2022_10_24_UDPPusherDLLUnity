@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UDPPusherOMI_DateTimeNowPushAtClient : MonoBehaviour
+public class UDPPusher_DateTimeNowPushAtClient : MonoBehaviour
 {
     public Eloi.PrimitiveUnityEvent_String m_linePushed;
     [ContextMenu("Push")]

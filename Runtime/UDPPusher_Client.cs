@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UDPPusherOmiDLL;
 using UnityEngine;
 
-public class UDPPusherOMI_Client : MonoBehaviour
+public class UDPPusher_Client : MonoBehaviour
 {
     public string m_address = UDPPusherDefault.m_defaultIpAddress ;
     public int m_port = UDPPusherDefault.m_defaultIpPort;

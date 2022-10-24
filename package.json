@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.udppusheromidllforunity",                              
+  "displayName": "UDP Pusher Omi DLL Unity",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package allows to push and create and UDP Server to listen to command line from other apps. Make UDP server are easy, this version is more for developer that are beginner and can't use UDP yet.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2022_10_24_UDPPusherOmiDLLUnity.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

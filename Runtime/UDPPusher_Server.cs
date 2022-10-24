@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UDPPusherOmiDLL;
 using UnityEngine;
 
-public class UDPPusherOMI_Server : MonoBehaviour
+public class UDPPusher_Server : MonoBehaviour
 {
     public System.Threading.ThreadPriority m_priority = System.Threading.ThreadPriority.Normal;
     public int m_portId = UDPPusherDefault.m_defaultIpPort;
